@@ -11,6 +11,7 @@
 ### 3. Making of ssh key
 
 -> https://youtu.be/WgZIv5HI44o
+-> https://youtu.be/cGcpVQlhbuI?si=f3isXg3ZcdYV4AYh
 
 ### 4. Installing Oh-my-fish
 
